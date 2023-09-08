@@ -1,0 +1,15 @@
+C:\Pathlock\pathlock\Refrigerator\bin\Debug\net7.0\Refrigerator.exe
+C:\Pathlock\pathlock\Refrigerator\bin\Debug\net7.0\Refrigerator.deps.json
+C:\Pathlock\pathlock\Refrigerator\bin\Debug\net7.0\Refrigerator.runtimeconfig.json
+C:\Pathlock\pathlock\Refrigerator\bin\Debug\net7.0\Refrigerator.dll
+C:\Pathlock\pathlock\Refrigerator\bin\Debug\net7.0\Refrigerator.pdb
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.csproj.AssemblyReference.cache
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.AssemblyInfoInputs.cache
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.AssemblyInfo.cs
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.csproj.CoreCompileInputs.cache
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.dll
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\refint\Refrigerator.dll
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.pdb
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\Refrigerator.genruntimeconfig.cache
+C:\Pathlock\pathlock\Refrigerator\obj\Debug\net7.0\ref\Refrigerator.dll
